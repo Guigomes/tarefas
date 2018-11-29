@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">Tarefas</string>
     <string name="action_settings">Settings</string>
+    <string name="txtNomeTarefa">Nome da Tarefa</string>
+    <string name="txtPeriodoTarefa">Período da tarefa</string>
+    <string name="txtPeriodicidadeTarefa">Periodicidade da tarefa</string>
+    <string name="txtDataInicio">Data Início</string>
+    <string name="txtDataFim">Data Fim</string>
+    <string name="btnSalvarTarefa">Criar Tarefa</string>
+
+    <string-array name="periodos">
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Noite</item>
+        <item>Dia todo</item>
+    </string-array>
+    <string-array name="periodicidade">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Mensalmente</item>
+        <item>Anualmente</item>
+        <item>Outro</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tabAgenda">Agenda</string>
+    <string name="tabTarefas">Tarefas</string>
 </resources>
+
